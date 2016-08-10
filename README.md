@@ -34,10 +34,17 @@ A (non-comprehensive) bibliography of Islandora presentations and publications.
 
 ## Presentations
 
-* Anez, M. (2015 June 13). [There is Life After Grant Funding: How Islandora Struck Out On Its Own](https://apla2015.files.wordpress.com/2015/06/life-after-grant-funding-anez.pdf). APLA 2015, St. John, NL.
+* Anez, M. (2015). [Islandora Foundation and the Terrific Twos: An Islandora Community Update](http://program.or2015.net/anez-islandora_foundation_and_the_terrific_twos-65_b.pdf). **Open Repositories**, Indianapolis, Indiana.
+* Anez, M. (2015). [There is Life After Grant Funding: How Islandora Struck Out On Its Own](https://apla2015.files.wordpress.com/2015/06/life-after-grant-funding-anez.pdf). **APLA 2015**, St. John's, Newfoundland.
+* Anez, M. (2016) [Islandora Update: The Conference, the CLAW, and Continuing on...](https://docs.google.com/presentation/d/1lFpGodhvjPsXpb-3odfOBrt3ZQy9KGrvofpqQ2ItiOo/edit?usp=sharing). **Open Repositories**, Dublin, Ireland.
+* Dean, R. (2014) [Multisite Islandora](http://islandora.ca/sites/default/files/Multisite_Islandora.pdf). *Islandora Camp Colorado*, Denver, United States.
 * Georgiev, A., & Grigorov, A. (2010, December 21). [Developing a digital repository infrastructure for sharing digital resources in the teaching education community - Case Study](https://research.uni-sofia.bg/handle/10506/706). ShareTEC project to The Fedora UK and Ireland User Group met at the London School of Economics and Political Science (the LSE).
+* Hooper, D., Moses, D. (2016) [From Planning to Publishing: Building a Research Data Management Service](https://apla2016.sched.org/event/6XaX/from-planning-to-publishing-building-a-research-data-management-service). **APLA 2016**, Halifax, Nova Scotia.
 * Humphrey, C. (2010). [Bridging data repositories University of Alberta](http://www.arl.org/sparc/bm~doc/humphrey.pdf). SPARC Digital Repositories.
+* Jiang, L., Stapelfeldt, K., Pham, K., Garrett, E. (2015). [Developing Open Oral Histories in Islandora](http://program.or2015.net/jiang-developing_open_oral_histories_in_islandora-109_a.pdf).  **Open Repositories**, Indianapolis, Indiana.
+* Lamb, D. (2014). [Migrating to Islandora](http://islandora.ca/sites/default/files/Migrating%20to%20Islandora%20iCampCO%202014.pdf). **Islandora Camp Colorado**, Denver, United States.
 * Leggott, M. (2009). [Islandora: a Drupal/Fedora Repository System](http://hdl.handle.net/1853/28495). 4th International Conference on Open Repositories.
+* Lehman, A. (2014) [Batch Processing: How Wyoming Cleared a large backlog in a matter of months](http://islandora.ca/sites/default/files/IslandoraCampLehman%20%281%29.pdf). **Islandora Camp Colorado**, Denver, United States.
 * Ruest, N. (2016). [Vagrant Up!; Islandora/Fedora](https://docs.google.com/presentation/d/17ctQNsazQgdt0QtUV-6OaTyPLGXgd6VyVNsbXue4A3s/edit?usp=sharing), Open Repositories, Dublin, Ireland.
 * Ruest, N., Pino, D. (2016). [State of The CLAW Address](http://hdl.handle.net/10315/31383). Open Repositories, Dublin, Ireland.
 * Ruest, N. (2016). [Solution Packs: What's in Your Islandora?](https://docs.google.com/presentation/d/1tTkc5Ul_OsLknGzjsc2IzNah--INo0Ut8cCNwhYpRmE/), *Islandora Camp Florida*, Fort Myers, Florida.
@@ -54,6 +61,8 @@ A (non-comprehensive) bibliography of Islandora presentations and publications.
 * Ruest, N., Mumma, C., Fleming, D., Giarlo, M., Woods, A. (2013). Building Successful, Open Repository Software Ecosystems: Technology and Community, *Open Repositories*, Helsinki, Finland.
 * Ruest, N., St.Onge, A. (2013). [Gettin Sh*t Done in the Digital Archives](http://hdl.handle.net/10315/26304), *Access*, St. John's, Newfoundland.
 * Ruest, N. (2013). [The Islandora Web ARChive Solution Pack](http://ruebot.net/content/islandora-web-archive-solution-pack-open-repositories-2013), *Open Repositories*, Charlottetown, Prince Edward Island.
+* Tripp, E. (2014) [Islandora as IR](http://islandora.ca/sites/default/files/iCampCo_Scholar_Oct13_2014.pdf). **Islandora Camp Colorado**, Denver, United States.
+* Wilcox, D., Cramer, T., Anez, M., Donohue, T., Carr, L. (2016). Repository Rodeo. **Open Repositories**, Dublin, Ireland.
 * Wilcox, D., Wead, A., Ruest, N., Friscia, M. (2015). [Upgrading? Migrating? There’s a portmanteau for that!](http://hdl.handle.net/10315/29516), *Open Repositories*, Indianapolis, Indiana.
 * Zhang, Q. Ishida M. (2011). [Research Data Management in Academic Libraries](http://tsc.library.ubc.ca/index.php/journal2/article/viewArticle/129%20). Unlocking Knowledge Through Open Access.
 
