@@ -47,7 +47,7 @@ A (non-comprehensive) bibliography of Islandora presentations and publications.
 * Ruest, N., Lamb, D. (2015). [Islandora and Fedora 4; The Atonement.](http://hdl.handle.net/10315/29505), *Open Repositories*, Indianapolis, Indiana.
 * Ruest, N., Wilcox, D, Cramer, T. (2015). Hacking the Community: A Model for Open Source Engagement, *Open Repositories*, Indianapolis, Indiana.
 * Ruest, N. (2015). [Preservation in Islandora](http://islandora.ca/sites/default/files/Preservation%20in%20Islandora_0.pdf), *Islandora Camp EU2*, Madrid, Spain.
-* Ruest, N. (2014). [Update on 7.x-1.4 Release](http://islandora.ca/camps/co2014/schedule), *Islandora Camp Colorado*, Denver, United States.
+* Ruest, N. (2014). [Update on 7.x-1.4 Release](http://islandora.ca/sites/default/files/7.x-1.4-%20Release%20update.pdf), *Islandora Camp Colorado*, Denver, United States.
 * Ruest, N., Stapelfeldt, K. (2014). [Islandora](https://spotdocs.scholarsportal.info/display/ODCC/2014.11.21+OCUL+Digital+Curation+Summit), *2014 OCUL Digital Curation Summit*, Toronto.
 * Ruest, N., Jordan, M., Moses, D. (2013). Digital Preservation Tools, Practices, and Policies in Islandora, *Open Repositories*, Helsinki, Finland.
 * Ruest, N., Mumma, C., Fleming, D., Giarlo, M., Woods, A. (2013). Building Successful, Open Repository Software Ecosystems: Technology and Community, *Open Repositories*, Helsinki, Finland.
