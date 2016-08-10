@@ -34,6 +34,7 @@ A (non-comprehensive) bibliography of Islandora presentations and publications.
 
 ## Presentations
 
+* Anez, M. (2015 June 13). [There is Life After Grant Funding: How Islandora Struck Out On Its Own](https://apla2015.files.wordpress.com/2015/06/life-after-grant-funding-anez.pdf). APLA 2015, St. John, NL.
 * Georgiev, A., & Grigorov, A. (2010, December 21). [Developing a digital repository infrastructure for sharing digital resources in the teaching education community - Case Study](https://research.uni-sofia.bg/handle/10506/706). ShareTEC project to The Fedora UK and Ireland User Group met at the London School of Economics and Political Science (the LSE).
 * Humphrey, C. (2010). [Bridging data repositories University of Alberta](http://www.arl.org/sparc/bm~doc/humphrey.pdf). SPARC Digital Repositories.
 * Leggott, M. (2009). [Islandora: a Drupal/Fedora Repository System](http://hdl.handle.net/1853/28495). 4th International Conference on Open Repositories.
