@@ -30,7 +30,7 @@ A (non-comprehensive) bibliography of Islandora presentations and publications.
 ## Theses, Dissertations, and Coursework
 
 * Ishida, M. (2011). [Data management in the United States and Canada : academic libraries’ contribution](https://circle.ubc.ca/handle/2429/35984). University of British Columbia, Graduate paper, 2011 Summer Term 1, LIBR 559L School of Library, Archival and Information Studies (SLAIS).
-* Lopes, Luis Filipe Vieira da Silva. (2010). [A Metadata Model for The Annotation Of Epidemiological Data](http://eprints.covenantuniversity.edu.ng/id/eprint/108). Masters Thesis (Dissertation). DOI: http://hdl.handle.net/10455/6698 (link is external)
+* Lopes, Luis Filipe Vieira da Silva. (2010). [A Metadata Model for The Annotation Of Epidemiological Data](http://eprints.covenantuniversity.edu.ng/id/eprint/108). Masters Thesis (Dissertation). DOI: http://hdl.handle.net/10455/6698 
 
 ## Presentations
 
