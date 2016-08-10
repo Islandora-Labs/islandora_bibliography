@@ -61,8 +61,8 @@ A (non-comprehensive) bibliography of Islandora presentations and publications.
 * Ruest, N., Mumma, C., Fleming, D., Giarlo, M., Woods, A. (2013). Building Successful, Open Repository Software Ecosystems: Technology and Community, *Open Repositories*, Helsinki, Finland.
 * Ruest, N., St.Onge, A. (2013). [Gettin Sh*t Done in the Digital Archives](http://hdl.handle.net/10315/26304), *Access*, St. John's, Newfoundland.
 * Ruest, N. (2013). [The Islandora Web ARChive Solution Pack](http://ruebot.net/content/islandora-web-archive-solution-pack-open-repositories-2013), *Open Repositories*, Charlottetown, Prince Edward Island.
-* Tripp, E. (2014) [Islandora as IR](http://islandora.ca/sites/default/files/iCampCo_Scholar_Oct13_2014.pdf). **Islandora Camp Colorado**, Denver, United States.
-* Wilcox, D., Cramer, T., Anez, M., Donohue, T., Carr, L. (2016). Repository Rodeo. **Open Repositories**, Dublin, Ireland.
+* Tripp, E. (2014) [Islandora as IR](http://islandora.ca/sites/default/files/iCampCo_Scholar_Oct13_2014.pdf). *Islandora Camp Colorado*, Denver, United States.
+* Wilcox, D., Cramer, T., Anez, M., Donohue, T., Carr, L. (2016). Repository Rodeo. *Open Repositories*, Dublin, Ireland.
 * Wilcox, D., Wead, A., Ruest, N., Friscia, M. (2015). [Upgrading? Migrating? There’s a portmanteau for that!](http://hdl.handle.net/10315/29516), *Open Repositories*, Indianapolis, Indiana.
 * Zhang, Q. Ishida M. (2011). [Research Data Management in Academic Libraries](http://tsc.library.ubc.ca/index.php/journal2/article/viewArticle/129%20). *Unlocking Knowledge Through Open Access*.
 
