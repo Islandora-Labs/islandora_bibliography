@@ -37,6 +37,20 @@ A (non-comprehensive) bibliography of Islandora presentations and publications.
 * Georgiev, A., & Grigorov, A. (2010, December 21). [Developing a digital repository infrastructure for sharing digital resources in the teaching education community - Case Study](https://research.uni-sofia.bg/handle/10506/706). ShareTEC project to The Fedora UK and Ireland User Group met at the London School of Economics and Political Science (the LSE).
 * Humphrey, C. (2010). [Bridging data repositories University of Alberta](http://www.arl.org/sparc/bm~doc/humphrey.pdf). SPARC Digital Repositories.
 * Leggott, M. (2009). [Islandora: a Drupal/Fedora Repository System](http://hdl.handle.net/1853/28495). 4th International Conference on Open Repositories.
+* Ruest, N., Pino, D. (2016). [State of The CLAW Address](http://hdl.handle.net/10315/31383). Open Repositories, Dublin, Ireland.
+* Ruest, N. (2016). [Solution Packs: What's in Your Islandora?](https://docs.google.com/presentation/d/1tTkc5Ul_OsLknGzjsc2IzNah--INo0Ut8cCNwhYpRmE/), *Islandora Camp Florida*, Fort Myers, Florida.
+* Ruest, N., Pino, D. (2016). [State of The CLAW Address; The Long Version](https://docs.google.com/presentation/d/1NX3mJlJChqaS45Sepyakwp8mCNr_JTRBzRW-0Um_X04/), *Islandora Camp Florida*, Fort Myers, Florida.
+* Ruest, N. (2016). [Islandora Releases: How the Community-Driven Sausage is Made](https://docs.google.com/presentation/d/1MgGseKxSHBoL5yt-nDbsYn8gIoaWcXGtwE3XuhMuy9I), *Islandora Camp Florida*, Fort Myers, Florida.
+* Ruest, N., Lamb, D. (2015). [Fedora 4 and Islandora Integration, Atonement, Upgration, and more!](http://islandora.ca/sites/default/files/images/iCamp%20CT%20-%20Islandora%20and%20Fedora%204%3B%20The%20Atonement..pdf), *Islandora Camp CT*, Hartford, Connecticut.
+* Ruest, N., Lamb, D. (2015). [Islandora and Fedora 4; The Atonement.](http://hdl.handle.net/10315/29505), *Open Repositories*, Indianapolis, Indiana.
+* Ruest, N., Wilcox, D, Cramer, T. (2015). Hacking the Community: A Model for Open Source Engagement, *Open Repositories*, Indianapolis, Indiana.
+* Ruest, N. (2015). [Preservation in Islandora](http://islandora.ca/sites/default/files/Preservation%20in%20Islandora_0.pdf), *Islandora Camp EU2*, Madrid, Spain.
+* Ruest, N., Stapelfeldt, K. (2014). [Islandora](https://spotdocs.scholarsportal.info/display/ODCC/2014.11.21+OCUL+Digital+Curation+Summit), *2014 OCUL Digital Curation Summit*, Toronto.
+* Ruest, N., Jordan, M., Moses, D. (2013). Digital Preservation Tools, Practices, and Policies in Islandora, *Open Repositories*, Helsinki, Finland.
+* Ruest, N., Mumma, C., Fleming, D., Giarlo, M., Woods, A. (2013). Building Successful, Open Repository Software Ecosystems: Technology and Community, *Open Repositories*, Helsinki, Finland.
+* Ruest, N., St.Onge, A. (2013). [Gettin Sh*t Done in the Digital Archives](http://hdl.handle.net/10315/26304), *Access*, St. John's, Newfoundland.
+* Ruest, N. (2013). [The Islandora Web ARChive Solution Pack](http://ruebot.net/content/islandora-web-archive-solution-pack-open-repositories-2013), *Open Repositories*, Charlottetown, Prince Edward Island.
+* Wilcox, D., Wead, A., Ruest, N., Friscia, M. (2015). [Upgrading? Migrating? There’s a portmanteau for that!](http://hdl.handle.net/10315/29516), *Open Repositories*, Indianapolis, Indiana.
 * Zhang, Q. Ishida M. (2011). [Research Data Management in Academic Libraries](http://tsc.library.ubc.ca/index.php/journal2/article/viewArticle/129%20). Unlocking Knowledge Through Open Access.
 
 ## Other
