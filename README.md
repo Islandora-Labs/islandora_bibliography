@@ -70,6 +70,7 @@ A (non-comprehensive) bibliography of Islandora presentations and publications.
 
 ## Other
 
+* Barnes, M.E., Ledchumykanthan, N., Pham, K. &amp; Stapelfeldt, K. (2017, March 7).  Supporting the Web Annotation Framework in Islandora. *code4lib 2017*, March 6-9, 2017, Los Angeles, California. (Poster)
 * Birello, G., Fucile, I., Giovanetti, V., & Perin, A. (2013). Digital preservation: an open source architecture. *Qualitative and Quantitative Methods in Libraries Conference*, June 2013, Rome, Italy. (Poster)
 * Birello, G., Fucile, I., Giovanetti, V., & Perin, A. (2014). DigiBESS: an open-source repository for sharing digital preservation The reuse of digital cultural content in education, tourism and leisure. Rome, Italy. (Poster)
 * Birello, G. and Perin, A. (2013). [Step by step installation guide of a digital preservation infrastructure part 2](http://www.digibess.it/fedora/repository/openbess:TO094-00285). *CNR Ceris*, Rome, Italy.
