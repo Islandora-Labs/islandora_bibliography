@@ -82,14 +82,7 @@ A (non-comprehensive) bibliography of Islandora presentations and publications.
 
 ## Contribute
 
-If you would like to contribute to this list, please make a pull request that adheres to the following guidelines:
-
-* Use [APA](https://owl.english.purdue.edu/owl/resource/560/01/) citation style.
-* Includes links to the publication/presentation whenever possible.
-* Make an individual pull request for each new item.
-* Link additions should be inserted alphabetically to the relavant category.
-* New categories or improvements to the existing categorization are welcome.
-* The pull request and commit should have a useful title.
+If you would like to contribute to this list, please check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Maintainers/Sponsors
 
