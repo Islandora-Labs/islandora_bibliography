@@ -76,6 +76,7 @@ A (non-comprehensive) bibliography of Islandora presentations and publications.
 * Birello, G., Fucile, I., Giovanetti, V., & Perin, A. (2014). DigiBESS: an open-source repository for sharing digital preservation The reuse of digital cultural content in education, tourism and leisure. Rome, Italy. (Poster)
 * Birello, G. and Perin, A. (2013). [Step by step installation guide of a digital preservation infrastructure part 2](http://www.digibess.it/fedora/repository/openbess:TO094-00285). *CNR Ceris*, Rome, Italy.
 * Courtney, N. D. (2010). More Technology for the Rest of Us: A Second Primer on Computing for the Non-IT Librarian. *ABC-CLIO*.
+* Jordan, M., McLellan, E. (2016). PREMIS in Open-Source Software: Islandora and Archivematica. In Dappert, A., Guenther, R., Peyrard, S. (Ed.), Digital Preservation Metadata for Practitioners (pp. 227-239). Cham, Switzerland: Springer International Publishing.
 * Salo, Dorothea. (2010). [Retooling libraries for the data challenge](http://minds.wisconsin.edu/handle/1793/46142).
 * Shearer, K. and Argáez, D. (2010) [Addressing the Research Data Gap: A Review of Novel Services for Libraries](http://www.carl-abrc.ca/about/working_groups/pdf/library_roles-final.pdf). Canadian Association of Research Libraries (CARL).
 * Walters, T., Skinner, K. (2011). [New Roles for New times: Digital Curation for Preservation](http://www.arl.org/bm~doc/nrnt_digital_curation17mar11.pdf). Report Prepared for the Association of Research Libraries.
