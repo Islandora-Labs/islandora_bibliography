@@ -4,15 +4,13 @@ If you are reading this document then you are interested in contributing to Isla
 
 We also have an irc channel -- #islandora -- on freenode.net. Feel free to hang out there, ask questions, and help others out if you can.
 
-Please note that this CONTRIBUTING.md file differs from our standard in the [Contribute Code](contribute-code) and [License Agreements](license-agreements) sections because Awesome Islandora is shared on a [CC0 Public Domain license](https://creativecommons.org/publicdomain/zero/1.0/).
+Please note that this CONTRIBUTING.md file differs from our standard, particularly in the [Contribute Code](contribute-code) and [License Agreements](license-agreements) sections because the Islandora Bibliography is shared on a [CC0 Public Domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ### Contribute code
 
 For most Islandora contributions, you would need to have completed a [Contributor License Agreement](http://islandora.ca/sites/default/files/islandora_cla.pdf) or be covered by a [Corporate Contributor Licencse Agreement](http://islandora.ca/sites/default/files/islandora_ccla.pdf). The Islandora Bibliography is shared on a [CC0 Public Domain license](https://creativecommons.org/publicdomain/zero/1.0/), as are all additions. By contributing to the list, your additions will also be shared under this licence. A CLA is not required for contributions to the Islandora Bibliography.
 
 To contribute to the Islandora Bibliography please ensure your pull request adheres to the following guidelines:
-
-If you would like to contribute to this list, please make a pull request that adheres to the following guidelines:
 
 * Use APA citation style.
 * Include links to the publication/presentation whenever possible.
@@ -34,17 +32,15 @@ You may want to read [Syncing a fork](https://help.github.com/articles/syncing-a
 
 ### Merging Pull Requests
 
-In Islandora Labs, the policies for merging may be different from the standard Islandora Committer's Workflow. These policies are set at the discretion of the Current Maintainer, as defined in this project's README.md.
+In Islandora Labs, the policies for merging may be different from the standard Islandora [Committer's Workflow](https://github.com/Islandora/islandora/wiki/Islandora-Committers-Workflow). These policies are set at the discretion of the Current Maintainer, as defined in this project's README.md.
 
 In this project, the following policies apply:
 
 * The maintainer(s) of this module, and any Islandora Committers, have merge privileges.
-* Merging one's own pull requests is permitted.
-* Formal github review is not required, nor is a courtesy waiting period required.
+* Merging one's own pull requests is permitted for Islandora Committers.
+* Formal github review is not required, nor is a courtesy waiting period required. Entries should be reviewed for compliance with the [Islandora Community Code of Coduct](https://islandora.ca/codeofconduct).
 
 
 ## License Agreements
 
-The Islandora Foundation normally requires that contributors complete a [Contributor License Agreement](http://islandora.ca/sites/default/files/islandora_cla.pdf) or be covered by a [Corporate Contributor License Agreement](http://islandora.ca/sites/default/files/islandora_ccla.pdf). The signed copy of the license agreement should be sent to <a href="mailto:community@islandora.ca?Subject=Contributor%20License%20Agreement" target="_top">community@islandora.ca</a>. This license is for your protection as a contributor as well as the protection of the Foundation and its users; it does not change your rights to use your own contributions for any other purpose. A list of current CLAs is kept [here](https://github.com/Islandora/islandora/wiki/Contributor-License-Agreements).
-
-The Islandora Bibliography is shared on a [CC0 Public Domain license](https://creativecommons.org/publicdomain/zero/1.0/), as are all additions. By contributing to the list, your additions will also be shared under this licence. A CLA is not required for contributions to the Islandora Bibliography.
+The Islandora Bibliography is shared on a [CC0 Public Domain license](https://creativecommons.org/publicdomain/zero/1.0/), as are all additions. By contributing to the list, your additions will also be shared under this licence. A [Contributor License Agreement](http://islandora.ca/sites/default/files/islandora_cla.pdf) (CLA) is not required for contributions to the Islandora Bibliography.
