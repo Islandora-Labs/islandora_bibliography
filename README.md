@@ -1,6 +1,6 @@
 # Islandora Bibliography
 
-A (non-comprehensive) bibliography of Islandora presentations and publications. 
+A (non-comprehensive) bibliography of Islandora presentations and publications. Entries in this list are presented for informational purposes only and are not endorsed by the Islandora Foundation.
 
 ## Journal Articles and Published Conference Proceedings
 
