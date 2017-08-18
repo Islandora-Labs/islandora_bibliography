@@ -6,7 +6,7 @@ We also have an irc channel -- #islandora -- on freenode.net. Feel free to hang 
 
 Please note that this CONTRIBUTING.md file differs from our standard, particularly in the [Contribute Code](contribute-code) and [License Agreements](license-agreements) sections because the Islandora Bibliography is shared on a [CC0 Public Domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-### Contribute code
+### Contribute to the Bibliography
 
 For most Islandora contributions, you would need to have completed a [Contributor License Agreement](http://islandora.ca/sites/default/files/islandora_cla.pdf) or be covered by a [Corporate Contributor Licencse Agreement](http://islandora.ca/sites/default/files/islandora_ccla.pdf). The Islandora Bibliography is shared on a [CC0 Public Domain license](https://creativecommons.org/publicdomain/zero/1.0/), as are all additions. By contributing to the list, your additions will also be shared under this licence. A CLA is not required for contributions to the Islandora Bibliography.
 
