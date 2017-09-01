@@ -5,7 +5,7 @@ A (non-comprehensive) bibliography of Islandora presentations and publications. 
 ## Journal Articles and Published Conference Proceedings
 
 * Adewumi, A., Ikhu-Omoregbe, N. (2011). [Institutional Repositories: Features, Architecture, Design and Implementation Technologies](http://eprints.covenantuniversity.edu.ng/108/). *Journal of Computing*.
-* Armeli Minicante, S., Birello, G., Sigovini, M., Minuzzo, T., Perin, A., & Ceregato, A. (2017). [Building a Natural and Cultural Heritage Repository for the Storage and Dissemination of Knowledge: The Algarium Veneticum and the Archivio di Studi Adriatici Case Study
+* Armeli Minicante, S., Birello, G., Sigovini, M., Minuzzo, T., Perin, A., & Ceregato, A. (2017). [Building a Natural and Cultural Heritage Repository for the Storage and Dissemination of Knowledge: The *Algarium Veneticum* and the *Archivio di Studi Adriatici* Case Study
 ](http://www.tandfonline.com/doi/ref/10.1080/19386389.2017.1355165). *Journal of Library Metdata*
 * Bankier, J.G., Gleason, K. (2014). [Guide to Institutional Repository Software](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/news/institutional_repository_software.pdf). UNESCO.
 * Barnes, M.E., Ledchumykanthan, N., Pham, K. &amp; Stapelfeldt, K. (2017, January 30) [Supporting Oral Histories in Islandora](http://journal.code4lib.org/articles/12176). *The Code4Lib Journal*
