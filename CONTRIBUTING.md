@@ -13,9 +13,9 @@ For most Islandora contributions, you would need to have completed a [Contributo
 To contribute to the Islandora Bibliography please ensure your pull request adheres to the following guidelines:
 
 * Use APA citation style.
-* Include links to the publication/presentation whenever possible.
+* Include links to the presentation/publication whenever possible.
 * Make an individual pull request for each new item.
-* Link additions should be inserted alphabetically to the relavant category.
+* Link additions should be inserted alphabetically by year to the relavent category.
 * New categories or improvements to the existing categorization are welcome.
 * The pull request and commit should have a useful title.
 
