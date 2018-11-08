@@ -4,6 +4,7 @@ A (non-comprehensive) bibliography of Islandora presentations and publications. 
 
 ## Presentations
 
+* Christel, M., DiPasquale, J., Keiser-Clark, D. (2018). [Islandora for All: Adding Digital Scholarship Tools and IR Experience with LASIR Phase II](https://dlfforum2018.sched.com/event/FVCs/t6d-platform-updates) [slides](https://osf.io/dbjzw/), Digital Library Federation (DLF) 2018 Forum, Las Vegas, Nevada, United States.
 * Keiser-Clark, D., Livermore, F., McFate, M., Merleaux, D., Moritz, C., Morris, G., Rosner, B., Smith, N., Tenney, M., Young, S. (2018). [ISLE Hack/Doc @ METRO](https://islandora-collaboration-group.github.io/icg_information/hack_docs/METRO/), *ICG Hack/Doc*, Manhattan, New York, United States.
 * Keiser-Clark, D., Merleaux, D., Morris, G., Smith, N. (2018). [ISLE: Islandora Installation Simplified](https://2018.code4lib.org/workshops/isle-islandora-installation-simplified) ([presentation pdf](https://drive.google.com/file/d/1mmQh4ZxsQGgEgPwP46MsY8RX4I0fRb9j/view?usp=sharing) + [workshop pdf](https://drive.google.com/file/d/1zpB5PyEV-PHkV-OmU9FbNjlwCpLRkre2/view?usp=sharing)), *Code4Lib preconference*, Washington, DC, United States.
 ___
