@@ -3,6 +3,7 @@
 A (non-comprehensive) bibliography of Islandora presentations and publications. Entries in this list are presented for informational purposes only and are not endorsed by the Islandora Foundation. Categories are sorted in descending order by year, and alphabetically within each year.
 
 ## Presentations
+* Merleaux, D., Morris, G. (2019). [Islandora for All: ISLE Workshop](https://wiki.code4lib.org/NECode4lib_Spring_2019), ([workshop slides](https://drive.google.com/file/d/1jbee3uHL1BUwT6Et2vQ9PPZpC3XmqV_n/view?usp=sharing)), NECode4lib Spring 2019 Regional Conference at Smith College, Northampton, MA, United States.
 * Keiser-Clark, D., Merleaux, D., Moritz, C., Rosner, B. (2019). [Islandora for All: ISLE Workshop](https://2019.code4lib.org/workshops/ISLE-Islandora-for-All), ([slides: 3-hour workshop](https://osf.io/w3hnv/)), Code4Lib 2019 Pre-Conference, San José, CA, United States.
 * Keiser-Clark, D., Moritz, C. (2019). [Earnest if Not Agile: Community ownership of open source software solutions](https://2019.code4lib.org/posters/Earnest-if-Not-Agile-Community-ownership-of-open-source-software-solutions), ([poster](https://osf.io/nbwc6/)), Code4Lib 2019 Conference Poster Session, San José, CA, United States.
 * Keiser-Clark, D. (2019). [2019 Code4Lib Lightning Talk Islandora for All](https://wiki.code4lib.org/Code4Lib2019_Lightning_Talks), ([slides](https://osf.io/fby9s/)), ([YouTube](https://youtu.be/uXYIjJrfqnI?t=70)), Code4Lib 2019 Conference, San José, CA, United States.
