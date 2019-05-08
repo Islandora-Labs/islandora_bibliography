@@ -70,7 +70,7 @@ ___
 
 ## Journal Articles and Published Conference Proceedings
 
-* Viglianti, R., Barnes, M. E. ,  Ledchumykanthan, N. &amp; Stapelfeldt, K. (2019, May 6) [Visualizing Fedora-managed TEI and MEI documents within Islandora](https://journal.code4lib.org/articles/14532) *The Code4Lib Journal*.
+* Viglianti, R., Barnes, M. E. ,  Ledchumykanthan, N. &amp; Stapelfeldt, K. (2019, May 6) [Visualizing Fedora-managed TEI and MEI documents within Islandora](https://journal.code4lib.org/articles/14532). *The Code4Lib Journal*.
 ___
 * Armeli Minicante, S., Birello, G., Sigovini, M., Minuzzo, T., Perin, A., & Ceregato, A. (2017). [Building a Natural and Cultural Heritage Repository for the Storage and Dissemination of Knowledge: The *Algarium Veneticum* and the *Archivio di Studi Adriatici* Case Study.
 * Barnes, M.E., Ledchumykanthan, N., Pham, K. &amp; Stapelfeldt, K. (2017, January 30) [Supporting Oral Histories in Islandora](http://journal.code4lib.org/articles/12176). *The Code4Lib Journal*.
