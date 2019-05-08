@@ -70,10 +70,12 @@ ___
 
 ## Journal Articles and Published Conference Proceedings
 
+* Viglianti, R., Barnes, M. E. ,  Ledchumykanthan, N. &amp; Stapelfeldt, K. (2019, May 6) [Visualizing Fedora-managed TEI and MEI documents within Islandora](https://journal.code4lib.org/articles/14532) *The Code4Lib Journal*.
+___
 * Armeli Minicante, S., Birello, G., Sigovini, M., Minuzzo, T., Perin, A., & Ceregato, A. (2017). [Building a Natural and Cultural Heritage Repository for the Storage and Dissemination of Knowledge: The *Algarium Veneticum* and the *Archivio di Studi Adriatici* Case Study.
 * Barnes, M.E., Ledchumykanthan, N., Pham, K. &amp; Stapelfeldt, K. (2017, January 30) [Supporting Oral Histories in Islandora](http://journal.code4lib.org/articles/12176). *The Code4Lib Journal*.
-* Barnes, M.E., Ledchumykanthan, N., Pham, K. &amp; Stapelfeldt, K. (2017, July 18) [Annotation-based enrichment of Digital Objects using open-source frameworks](http://journal.code4lib.org/articles/12582). *The Code4Lib Journal*
-](http://www.tandfonline.com/doi/ref/10.1080/19386389.2017.1355165). *Journal of Library Metdata*.
+* Barnes, M.E., Ledchumykanthan, N., Pham, K. &amp; Stapelfeldt, K. (2017, July 18) [Annotation-based enrichment of Digital Objects using open-source frameworks](http://journal.code4lib.org/articles/12582). *The Code4Lib Journal*.
+* Armeli Minicante, S., Birello, G., Sigovini, M., Minuzzo, T., Perin, A., & Ceregato, A. (2017). [Building a Natural and Cultural Heritage Repository for the Storage and Dissemination of Knowledge: The Algarium Veneticum and the Archivio di Studi Adriatici Case Study](http://www.tandfonline.com/doi/ref/10.1080/19386389.2017.1355165). *Journal of Library Metadata*
 ___
 * Bankier, J.G., Gleason, K. (2014). [Guide to Institutional Repository Software](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/news/institutional_repository_software.pdf). UNESCO.
 * Jettka, D. and Stein, D. (2014). [The HZSK Repository: Implementation, Features, and Use Cases of a Repository for Spoken Language Corpora](http://www.dlib.org/dlib/september14/jettka/09jettka.html). *D-Lib Magazine*, 20(9/10). doi:10.1045/september2014-jettka.
