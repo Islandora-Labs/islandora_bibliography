@@ -34,6 +34,8 @@ ___
 
 * Keiser-Clark, D., Moritz, C. (2019). [Earnest if Not Agile: Community ownership of open source software solutions](https://2019.code4lib.org/posters/Earnest-if-Not-Agile-Community-ownership-of-open-source-software-solutions), ([poster](https://osf.io/nbwc6/)), Code4Lib 2019 Conference Poster Session, San José, CA, United States.
 
+* Keiser-Clark, D. (2019). [Breakout Session: Islandora](https://wiki.code4lib.org/Code4Lib2019_Breakout_Sessions), Code4Lib 2019 Conference, San José, CA, United States.
+
 * Gordon, C., Kambestad, J. (2019). [Digital Asset Management](http://internet-librarian.infotoday.com/2019/Wednesday.aspx), Internet Librarian Conference 2019, Monterey, California, United States, 2019.
 ___
 
@@ -41,11 +43,11 @@ ___
 
 * Christel, M., DiPasquale, J., Keiser-Clark, D. (2018). [Islandora for All: Adding Digital Scholarship Tools and IR Experience with LASIR Phase II](https://dlfforum2018.sched.com/event/FVCs/t6d-platform-updates), [slides](https://osf.io/dbjzw/), Digital Library Federation (DLF) 2018 Forum, Las Vegas, Nevada, United States.
 
-* Keiser-Clark, D., Livermore, F., McFate, M., Merleaux, D., Moritz, C., Morris, G., Rosner, B., Smith, N., Tenney, M., Young, S. (2018). [ISLE Hack/Doc @ METRO](https://islandora-collaboration-group.github.io/icg_information/hack_docs/METRO/), *ICG Hack/Doc*, Manhattan, New York, United States.
+* Keiser-Clark, D., Livermore, F., McFate, M., Merleaux, D., Moritz, C., Morris, G., Rosner, B., Smith, N., Tenney, M., Young, S. (2018). [ICG Hack/Doc @ METRO](https://islandora-collaboration-group.github.io/icg_information/hack_docs/METRO/) (37 participants from 27 institutions), *ICG Hack/Doc*, Manhattan, New York, United States.
 
 * Keiser-Clark, D., Merleaux, D., Morris, G., Smith, N. (2018). [ISLE: Islandora Installation Simplified](https://2018.code4lib.org/workshops/isle-islandora-installation-simplified) ([presentation pdf](https://drive.google.com/file/d/1mmQh4ZxsQGgEgPwP46MsY8RX4I0fRb9j/view?usp=sharing) + [workshop pdf](https://drive.google.com/file/d/1zpB5PyEV-PHkV-OmU9FbNjlwCpLRkre2/view?usp=sharing)), *Code4Lib preconference*, Washington, DC, United States.
 
-* Anez, M., Keiser-Clark, D. (2017). Islandoracon Hack/Doc, *Islandoracon 2017 Pre-conference*, Hamilton, Ontario, Canada.
+* Anez, M., Keiser-Clark, D. (2017). [Islandoracon 2017 Pre-conference Hack/Doc Fest](https://islandora.ca/content/islandoracon-2017-hackfest), *Islandoracon 2017 Pre-conference*, Hamilton, Ontario, Canada.
 
 * DiPasquale, J., Graham, M., Keiser-Clark, D., Lorberfeld, A., Naughton, R., Pino, D., Tenney, M., Traub, A. (2017). [Islandora: Community and Collections](https://dlfforum2017.sched.com/event/Bzsu/t5b-islandora-community-and-collections), [slides](https://osf.io/2xrpq/), *DLF 2017 Forum*, Pittsburgh, Pennsylvania, United States.
 
@@ -67,11 +69,11 @@ ___
 
 * DiPasquale, J., Keiser-Clark, D., Livermore, F. (2016). [Hack/Doc Partnerships for Library Projects](https://dlfforum2016.sched.org/event/8LFu/s4c-hackdoc-partnerships-for-library-projects), *DLF 2016 Forum LAC Pre-conference)*, Milwaukee, Wisconsin, United States.
 
-* DiPasquale, J., Keiser-Clark, D., Warren, C. (2016). [ICG Hack/Doc @ Vassar College](https://github.com/Islandora-Collaboration-Group/icg_information/blob/master/hack_docs/meetings/01_Vassar_2016.md), *ICG Hack/Doc*, Poughkeepsie, New York, United States.
-
 * Hooper, D., Moses, D. (2016) [From Planning to Publishing: Building a Research Data Management Service](https://apla2016.sched.org/event/6XaX/from-planning-to-publishing-building-a-research-data-management-service). *APLA 2016*, Halifax, Nova Scotia, Canada.
 
 * Livermore, F. (2016). [ICG Hack/Doc @ Wesleyan University](https://github.com/Islandora-Collaboration-Group/icg_information/blob/master/hack_docs/meetings/02_Wesleyan_2016.md), *ICG Hack/Doc*, Middletown, Connecticut, United States.
+
+* DiPasquale, J., Keiser-Clark, D., Warren, C. (2016). [ICG Hack/Doc @ Vassar College](https://github.com/Islandora-Collaboration-Group/icg_information/blob/master/hack_docs/meetings/01_Vassar_2016.md), *ICG Hack/Doc*, Poughkeepsie, New York, United States.
 
 * Ruest, N. (2016). [Islandora Releases: How the Community-Driven Sausage is Made](https://docs.google.com/presentation/d/1MgGseKxSHBoL5yt-nDbsYn8gIoaWcXGtwE3XuhMuy9I), *Islandora Camp Florida*, Fort Myers, Florida, United States.
 
